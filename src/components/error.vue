@@ -1,6 +1,5 @@
 <template>
   <div>
-    <!--   show some alert to user   -->
     <el-alert type="info" show-icon title="Oh noes, something went wrong!" :closable="false" ></el-alert>
     <el-alert type="error" show-icon title="Error: Couldn't authenticate you" :closable="false"></el-alert>
     <!--  click button to get back to admin page   -->
