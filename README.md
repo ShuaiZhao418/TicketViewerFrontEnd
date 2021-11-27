@@ -1,9 +1,9 @@
 # TicketViewerFrontEnd
-# The project is in the master branch!!!  
+**The project is in the master branch!!!**      
 
 This is the commit of Zendesk intern coding challenge TicketViewer Front-end.  
 
-This is a Vue based front-end project. I use Javascript to write the requests and functions and use Element-UI to design the interface.
+This is a Vue based front-end project. I use Javascript to write the requests and functions and use Element-UI to design the interface.  
 The back-end is in another project **TicketViewerBackEnd**.
          
 **Introduction:**
