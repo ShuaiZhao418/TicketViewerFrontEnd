@@ -1,5 +1,4 @@
-# TicketViewerFrontEnd
-**The project is in the master branch!!!**      
+# TicketViewerFrontEnd   
 
 This is the commit of Zendesk intern coding challenge TicketViewer Front-end.  
 
